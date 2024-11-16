@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Compiled output
+/dist/
+/build/
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# VSCode settings
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# NPM package lock
+package-lock.json
+
+# Yarn lock file (if using Yarn)
+yarn.lock
+
+# Optional npm cache directory
+.npm/
+
+# IDE specific files
+.idea/
+
+# Jest test coverage directory
+coverage/
+
+# Svelte (if using Svelte with TS)
+.svelte-kit/
